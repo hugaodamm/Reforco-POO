@@ -1,0 +1,7 @@
+kenyo         m        0.0
+mauri         m        0.0
+joice         f        0.0
+filipe         m        0.0
+thiago         m        0.0      0.0
+ana carolina         f        0.0      5000.0     5000.0
+nobre         m        0.0
